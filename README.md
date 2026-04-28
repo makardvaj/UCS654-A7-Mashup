@@ -1,4 +1,4 @@
-# 🎧 Pro Mashup Studio (102316056)
+# 🎧 Pro Mashup Studio (102316037)
 
 ![Mashup Banner](assets/mashup_banner.png)
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run Locally
 ```bash
-streamlit run 102316056_app.py
+streamlit run 102316037_app.py
 ```
 
 ---
@@ -82,8 +82,8 @@ YOUTUBE_COOKIES = '''
 
 ## 👨‍💻 Author
 
-**Name:** Atishay Jain
-**Roll No:** 102316056
+**Name:** Vaibhav Srivastva
+**Roll No:** 102316037
 **Batch:** 3P12
 
 ---
